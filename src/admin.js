@@ -8,4 +8,7 @@ function adminDashboard() {
     console.log(dashboard);
 }
 
+function generateReport() {
+    return "Admin report generated";
+}
 adminDashboard();
