@@ -4,4 +4,8 @@ function searchProduct(products, keyword) {
     );
 }
 
+function filterByPrice(products, maxPrice) {
+    return products.filter(product => product.price <= maxPrice);
+}
+
 console.log("Product search module ready");
