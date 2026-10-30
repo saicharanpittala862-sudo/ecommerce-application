@@ -1,7 +1,6 @@
 # E-Commerce Application
 
-A collaborative E-Commerce project developed using
-HTML, CSS, JavaScript, Git and GitHub.
+A secure online shopping platform with checkout and authentication.
 
 ## Modules
 1. User Authentication
