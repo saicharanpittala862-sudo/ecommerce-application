@@ -1,6 +1,6 @@
 # E-Commerce Application
 
-A secure online shopping platform with checkout and authentication.
+A modern online shopping platform with product and order management.
 
 ## Modules
 1. User Authentication
